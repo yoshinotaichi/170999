@@ -8,4 +8,5 @@ yt.
 log
 20171127
 - GithubDesktop を使って、clone, pushしてみた。
+- pullするために、もう1行かく、、、、アホか、俺。
 
